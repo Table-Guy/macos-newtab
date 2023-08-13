@@ -3,7 +3,7 @@
 /* =====[ 🎨 BASIC CUSTOMIZATION ]==================== */
 
 /* 🖼️ BACKGROUND IMAGE */
-/* Use an https:// url or a URL in the repository */
+/* Use an https:// url or a URL in the repository *
 /* ☀️ Light */ var lightBackground = "background.jpeg";
 /* 🌙 Dark */  var darkBackground  = "background-dark.jpeg";
 /* Leave "Dark" blank to disable dynamic wallpaper */
